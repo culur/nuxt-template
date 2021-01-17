@@ -1,0 +1,21 @@
+{
+  "name": "@culur/nextjs-starter",
+  "version": "0.0.1",
+  "description": "Next.js Starter",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/culur/nextjs-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/culur/nextjs-starter/issues"
+  },
+  "homepage": "https://github.com/culur/nextjs-starter#readme",
+  "author": "Phạm Hồng Phúc - phamhongphuc.info@gmail.com",
+  "license": "MIT",
+  "scripts": {},
+  "engines": {
+    "node": ">=12"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
