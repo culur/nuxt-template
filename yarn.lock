@@ -340,6 +340,11 @@
   dependencies:
     "@cspotcode/source-map-consumer" "0.8.0"
 
+"@culur/prettier-config@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@culur/prettier-config/-/prettier-config-0.2.0.tgz#9b2fa212a00f7a8266f1318df0a27c94b5e56aa4"
+  integrity sha512-ZUOBdFTkac1EpYQmPxOw650iJBShVBxqrI3il1+rCwOXIBYiMChaYLushdnBzsJKy259cF0hd3V74yEX9k6X2Q==
+
 "@jridgewell/resolve-uri@^3.0.3":
   version "3.0.5"
   resolved "https://registry.yarnpkg.com/@jridgewell/resolve-uri/-/resolve-uri-3.0.5.tgz#68eb521368db76d040a6315cdb24bf2483037b9c"
@@ -4757,6 +4762,11 @@ postcss@^8.1.10, postcss@^8.3.5, postcss@^8.4.5, postcss@^8.4.6:
     nanoid "^3.2.0"
     picocolors "^1.0.0"
     source-map-js "^1.0.2"
+
+prettier@^2.5.1:
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-2.5.1.tgz#fff75fa9d519c54cf0fce328c1017d94546bc56a"
+  integrity sha512-vBZcPRUR5MZJwoyi3ZoyQlc1rXeEck8KgeC9AwwOn+exuxLxq5toTRDTSaVrXHxelDMHy9zlicw8u66yxoSUFg==
 
 pretty-bytes@^5.6.0:
   version "5.6.0"
