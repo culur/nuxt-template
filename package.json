@@ -12,13 +12,18 @@
   "homepage": "https://github.com/culur/nextjs-starter#readme",
   "author": "Phạm Hồng Phúc - phamhongphuc.info@gmail.com",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "start": "node .output/server/index.mjs"
+  },
   "engines": {
     "node": ">=12"
   },
   "dependencies": {},
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0",
-    "npm-run-all": "^4.1.5"
+    "npm-run-all": "^4.1.5",
+    "nuxt3": "latest"
   }
 }
